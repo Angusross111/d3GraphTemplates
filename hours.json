@@ -1,0 +1,32 @@
+[
+  {
+    "name": "kilo",
+    "running": 14,
+    "notRunning": 5
+  },
+  {
+    "name": "lima",
+    "running": 7,
+    "notRunning": 1
+  },
+  {
+    "name": "mike",
+    "running": 2,
+    "notRunning": 10
+  },
+  {
+    "name": "november",
+    "running": 16,
+    "notRunning": 2
+  },
+  {
+    "name": "oscar",
+    "running": 18,
+    "notRunning": 3
+  },
+  {
+    "name": "papa",
+    "running": 5,
+    "notRunning": 5
+  }
+]
